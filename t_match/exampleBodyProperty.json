@@ -1,0 +1,59 @@
+{
+  "TeamsCount": 2,
+  "Players": [
+    {
+      "PlayerID": "MYBA",
+      "Propes": {
+        "Boal": 8,
+        "Shot": 7,
+        "Stamina": 2,
+        "Keeper": 8
+      }
+    },
+    {
+      "PlayerID": "BUBO",
+      "Propes": {
+        "Boal": 7,
+        "Shot": 3,
+        "Stamina": 7,
+        "Keeper": 4
+      }
+    },
+    {
+      "PlayerID": "DIKU",
+      "Propes": {
+        "Boal": 2,
+        "Shot": 6,
+        "Stamina": 9,
+        "Keeper": 2
+      }
+    },
+    {
+      "PlayerID": "DIBY",
+      "Propes": {
+        "Boal": 1,
+        "Shot": 9,
+        "Stamina": 6,
+        "Keeper": 1
+      }
+    },
+    {
+      "PlayerID": "KECI",
+      "Propes": {
+        "Boal": 2,
+        "Shot": 7,
+        "Stamina": 2,
+        "Keeper": 1
+      }
+    },
+    {
+      "PlayerID": "REDI",
+      "Propes": {
+        "Boal": 4,
+        "Shot": 3,
+        "Stamina": 5,
+        "Keeper": 3
+      }
+    }
+  ]
+}

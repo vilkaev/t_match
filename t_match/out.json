@@ -1,0 +1,139 @@
+[
+  {
+    "Name": "А",
+    "AvrScore": 18,
+    "players": [
+      {
+        "PlayerID": "MYBA",
+        "Score": 25,
+        "Propes": {
+          "Boal": 8,
+          "Shot": 7,
+          "Stamina": 2,
+          "Keeper": 8
+        }
+      },
+      {
+        "PlayerID": "BUBO",
+        "Score": 21,
+        "Propes": {
+          "Boal": 7,
+          "Shot": 3,
+          "Stamina": 7,
+          "Keeper": 4
+        }
+      },
+      {
+        "PlayerID": "DIKU",
+        "Score": 19,
+        "Propes": {
+          "Boal": 2,
+          "Shot": 6,
+          "Stamina": 9,
+          "Keeper": 2
+        }
+      },
+      {
+        "PlayerID": "DIBY",
+        "Score": 17,
+        "Propes": {
+          "Boal": 1,
+          "Shot": 9,
+          "Stamina": 6,
+          "Keeper": 1
+        }
+      },
+      {
+        "PlayerID": "KECI",
+        "Score": 12,
+        "Propes": {
+          "Boal": 2,
+          "Shot": 7,
+          "Stamina": 2,
+          "Keeper": 1
+        }
+      }
+    ],
+    "MyWeiths": {
+      "Keeper": 1.0,
+      "Boal": 1.0,
+      "Shot": 1.0,
+      "Stamina": 1.0
+    },
+    "PropsScore": {
+      "Boal": 4,
+      "Shot": 6,
+      "Stamina": 5,
+      "Keeper": 3
+    }
+  },
+  {
+    "Name": "Б",
+    "AvrScore": 17,
+    "players": [
+      {
+        "PlayerID": "KIBE",
+        "Score": 25,
+        "Propes": {
+          "Boal": 4,
+          "Shot": 9,
+          "Stamina": 8,
+          "Keeper": 4
+        }
+      },
+      {
+        "PlayerID": "BILE",
+        "Score": 21,
+        "Propes": {
+          "Boal": 9,
+          "Shot": 1,
+          "Stamina": 9,
+          "Keeper": 2
+        }
+      },
+      {
+        "PlayerID": "BOBE",
+        "Score": 18,
+        "Propes": {
+          "Boal": 5,
+          "Shot": 6,
+          "Stamina": 5,
+          "Keeper": 2
+        }
+      },
+      {
+        "PlayerID": "NYKE",
+        "Score": 16,
+        "Propes": {
+          "Boal": 1,
+          "Shot": 4,
+          "Stamina": 3,
+          "Keeper": 8
+        }
+      },
+      {
+        "PlayerID": "LONI",
+        "Score": 11,
+        "Propes": {
+          "Boal": 4,
+          "Shot": 5,
+          "Stamina": 1,
+          "Keeper": 1
+        }
+      }
+    ],
+    "MyWeiths": {
+      "Keeper": 1.0,
+      "Boal": 1.0,
+      "Shot": 1.0,
+      "Stamina": 1.0
+    },
+    "PropsScore": {
+      "Boal": 4,
+      "Shot": 5,
+      "Stamina": 5,
+      "Keeper": 3
+    }
+  }
+
+]
