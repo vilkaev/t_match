@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace t_match
+namespace t_match.Models
 {
     public class Team
     {
@@ -16,7 +16,7 @@ namespace t_match
 
         public Dictionary<PropTypes, int> PropsScore { get; set; }
 
-    
+
 
         public Team()
         {

@@ -5,7 +5,7 @@ using System.Text;
 using System.Text.Json.Serialization;
 using System.Threading.Tasks;
 
-namespace t_match
+namespace t_match.Models
 {
     public class Player
     {
